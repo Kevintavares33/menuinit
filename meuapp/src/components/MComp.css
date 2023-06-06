@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #888b8d;
+}
+.menu{
+display: flex;
+list-style: none;
+color:#ffff
+}
+.menu li{
+    margin-left: 20px;
+}
+h1{
+    color: #ffff;
+}
+a{
+    text-decoration: none;
+    text-transform: none;
+    color: #ffff;
+}
